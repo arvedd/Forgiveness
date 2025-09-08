@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85822430c213f66479e7c11c455d3775, type: 3}
+  m_Name: WatcherDialogue
+  m_EditorClassIdentifier: 
+  npcName: The Watcher
+  npcFace: {fileID: -7598093318642893769, guid: 3fc0701e55eddfe4287dfe708ff697d3, type: 3}
+  dialogueLine:
+  - Why tf re u here
+  - gtf away from here
+  autoProgressLine: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 2c62996a43db75945af6c2d7275bb2c4, type: 3}
+  voicePitch: 1

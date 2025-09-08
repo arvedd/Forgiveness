@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Amulet
+  - SwitchPoint
+  - HotDogNPC
   layers:
   - Default
   - TransparentFX
@@ -11,8 +14,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Bridge
   - 
   - 
   - 
@@ -41,14 +44,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 3047676927
+  - name: HotDog
+    uniqueID: 3859669745
+    locked: 0
+  - name: Decoration
+    uniqueID: 36842979
     locked: 0
   - name: Player
     uniqueID: 2415055701
     locked: 0
-  - name: Foreground
-    uniqueID: 3867360237
+  - name: UI Text
+    uniqueID: 3045689655
     locked: 0
   m_RenderingLayers:
   - Default
